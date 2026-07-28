@@ -1,0 +1,11 @@
+{
+  "allowedPermissions": [
+    "writeWorkspace"
+  ],
+  "approvedAt": "2026-07-27T16:08:34.289332Z",
+  "cellId": "orca_01_initialize",
+  "codeSha256": "3c847414b9daebae3316b05368791e8466a05f856ca22c45e2186e09e3be335c",
+  "planId": "naza_orca_game_asset_v1",
+  "reviewerNote": "",
+  "runId": "uN2EhMVo-QYe_Znf-mbGaR0Y"
+}

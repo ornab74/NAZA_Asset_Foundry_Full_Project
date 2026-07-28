@@ -1,0 +1,67 @@
+{
+  "artifacts": [
+    {
+      "bytes": 1339,
+      "mimeType": "application/json",
+      "relativePath": "build/asset_spec.json",
+      "sha256": "d170205ea5b308129c8733f9b316c9ee6a12a1e4319877eea201f7c37469cf8f"
+    },
+    {
+      "bytes": 174918,
+      "mimeType": "application/octet-stream",
+      "relativePath": "build/orca_guidance.npz",
+      "sha256": "fb0cd423a3df2ed90fc181a6307e8c7b7cdec1847e6b2cb37755f0950dcfdc6a"
+    },
+    {
+      "bytes": 1983656,
+      "mimeType": "application/octet-stream",
+      "relativePath": "build/orca_lod0.blend",
+      "sha256": "9afaaed836b0be77e6ab5a80c6976476101246770cc945e9a5e9dee3cb60ea4c"
+    },
+    {
+      "bytes": 630,
+      "mimeType": "application/json",
+      "relativePath": "reports/guidance_report.json",
+      "sha256": "5097de82e47162ed244cbe5ca5cf4caf82030bd7de1f75c9c9176df4443d5a52"
+    },
+    {
+      "bytes": 102,
+      "mimeType": "text/plain",
+      "relativePath": "reports/lod0_blender_stdout.txt",
+      "sha256": "ca26a086cf48a38c887020fab776de62c9af3b4b36a07f96e76248c481991ae2"
+    },
+    {
+      "bytes": 872,
+      "mimeType": "application/json",
+      "relativePath": "reports/lod0_build_report.json",
+      "sha256": "752cc6e3fab4e82944057feee36728d9f5a708499bd366e46764fc42e024625c"
+    },
+    {
+      "bytes": 13873,
+      "mimeType": "text/x-python",
+      "relativePath": "scripts/build_orca_lod0.py",
+      "sha256": "fe69a13f254d04c7509fe844bee6761f8459caf8106ced5dff98edaacbd387ef"
+    },
+    {
+      "bytes": 46882,
+      "mimeType": "image/png",
+      "relativePath": "textures/orca_basecolor.png",
+      "sha256": "fe4d806c490262c6db22e7cbf1442d977b02dcde6edb8554879e766dfd810bb9"
+    },
+    {
+      "bytes": 1679,
+      "mimeType": "image/png",
+      "relativePath": "textures/orca_roughness.png",
+      "sha256": "b5c13f294357141997dd3f7bc1fc6f7409b9b8da5c16dfd5dda4c0d39afd5579"
+    }
+  ],
+  "cellId": "orca_02_guidance_fields",
+  "durationMs": 3543,
+  "exitCode": 0,
+  "ok": true,
+  "policyFindings": [],
+  "runId": "uN2EhMVo-QYe_Znf-mbGaR0Y",
+  "sandboxMode": "process-fallback",
+  "stderr": "",
+  "stdout": "/home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/reports/guidance_report.json\n"
+}

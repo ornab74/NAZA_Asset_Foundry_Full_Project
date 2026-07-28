@@ -1,0 +1,155 @@
+16:34:36 | ERROR: Draco mesh compression is not available because library could not be found at /usr/bin/3.4/python/lib/python3.11/site-packages/libextern_draco.so
+16:34:37 | INFO: Starting glTF 2.0 export
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+WARNING: Armature must be the parent of skinned mesh
+Armature is selected by its name, but may be false in case of instances
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_BodyMesh
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_DorsalFinMesh
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Pectoral_LMesh
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Pectoral_RMesh
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Fluke_LMesh
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Fluke_RMesh
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_JawMesh
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Sphere
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Sphere.001
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_BodyMesh.001
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_DorsalFinMesh.001
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Sphere.002
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Sphere.003
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Fluke_LMesh.001
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Fluke_RMesh.001
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_JawMesh.001
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Pectoral_LMesh.001
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Pectoral_RMesh.001
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_BodyMesh.002
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_DorsalFinMesh.002
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Sphere.004
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Sphere.005
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Fluke_LMesh.002
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Fluke_RMesh.002
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_JawMesh.002
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Pectoral_LMesh.002
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Pectoral_RMesh.002
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_BodyMesh.003
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_DorsalFinMesh.003
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Sphere.006
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Sphere.007
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Fluke_LMesh.003
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Fluke_RMesh.003
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_JawMesh.003
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Pectoral_LMesh.003
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_Pectoral_RMesh.003
+16:34:37 | INFO: Primitives created: 1
+16:34:37 | INFO: Extracting primitive: Orca_LOD0_BodyMesh.004
+16:34:37 | INFO: Primitives created: 1
+16:34:38 | INFO: Finished glTF 2.0 export in 0.8090341091156006 s
+
+Blender 3.4.1
+Read blend: /home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/exports/orca_production.blend
+
+Blender quit
+

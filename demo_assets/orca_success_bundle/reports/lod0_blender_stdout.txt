@@ -1,0 +1,6 @@
+Blender 3.4.1
+Info: Total files 2 | Changed 2 | Failed 0
+Info: Saved "orca_lod0.blend"
+
+Blender quit
+

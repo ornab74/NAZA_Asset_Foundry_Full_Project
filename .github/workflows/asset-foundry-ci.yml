@@ -1,0 +1,28 @@
+name: Asset Foundry CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  python-policy:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest asset_engine.test_policy -v
+      - run: python tool/check_project.py
+
+  flutter:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+      - run: flutter create --no-pub --project-name naza_asset_foundry --org com.naza --platforms linux .
+      - run: flutter pub get
+      - run: flutter analyze
+      - run: flutter test

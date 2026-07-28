@@ -1,0 +1,205 @@
+{
+  "artifacts": [
+    {
+      "bytes": 1339,
+      "mimeType": "application/json",
+      "relativePath": "build/asset_spec.json",
+      "sha256": "d170205ea5b308129c8733f9b316c9ee6a12a1e4319877eea201f7c37469cf8f"
+    },
+    {
+      "bytes": 174918,
+      "mimeType": "application/octet-stream",
+      "relativePath": "build/orca_guidance.npz",
+      "sha256": "fb0cd423a3df2ed90fc181a6307e8c7b7cdec1847e6b2cb37755f0950dcfdc6a"
+    },
+    {
+      "bytes": 1983656,
+      "mimeType": "application/octet-stream",
+      "relativePath": "build/orca_lod0.blend",
+      "sha256": "839b5a07feba0beb2b34fa4701ef30bd12a3fcf0c1036baa5d350586083e983f"
+    },
+    {
+      "bytes": 1983656,
+      "mimeType": "application/octet-stream",
+      "relativePath": "build/orca_lod0.blend1",
+      "sha256": "9afaaed836b0be77e6ab5a80c6976476101246770cc945e9a5e9dee3cb60ea4c"
+    },
+    {
+      "bytes": 591,
+      "mimeType": "text/markdown",
+      "relativePath": "exports/README_GODOT.md",
+      "sha256": "f3a05c3f7fb7492e0501906c86ee9abb30b1233d40c200307a462f12b740fe0a"
+    },
+    {
+      "bytes": 3274,
+      "mimeType": "application/json",
+      "relativePath": "exports/asset_manifest.json",
+      "sha256": "997637964771526a8a182d1d946ce33772b657e3a7d4496c5983a0aeaff79d47"
+    },
+    {
+      "bytes": 1147764,
+      "mimeType": "model/gltf-binary",
+      "relativePath": "exports/orca_godot.glb",
+      "sha256": "052936f9a5d7d809e04640330f61d15620bbb2335862aa406f43ac57ee61387d"
+    },
+    {
+      "bytes": 3813068,
+      "mimeType": "application/octet-stream",
+      "relativePath": "exports/orca_production.blend",
+      "sha256": "b42169b8d0603a4db00f4a7616ba34a0e47f86d96436a5746cf4fddbf0d2520e"
+    },
+    {
+      "bytes": 3812748,
+      "mimeType": "application/octet-stream",
+      "relativePath": "exports/orca_production.blend1",
+      "sha256": "ecb89f8429bf9f6241e3733d1fbb1891dc5142d26872b2e395d6989fdc404fc1"
+    },
+    {
+      "bytes": 643188,
+      "mimeType": "image/png",
+      "relativePath": "previews/orca_contact_sheet.png",
+      "sha256": "b6fb9fdde590b881c9b568304c42a38dab64fb2e5e47b90375768bbdcf2136aa"
+    },
+    {
+      "bytes": 185086,
+      "mimeType": "image/png",
+      "relativePath": "previews/orca_front.png",
+      "sha256": "97780b9866d31618c1c840f06da6cdc554174ba2b626f1dc631df2e9716b133d"
+    },
+    {
+      "bytes": 185007,
+      "mimeType": "image/png",
+      "relativePath": "previews/orca_hero.png",
+      "sha256": "b2ea8ad21dd9272e7b9050ab0d44ef2e71d7c9c5f089b5425ab49b786575d2aa"
+    },
+    {
+      "bytes": 189185,
+      "mimeType": "image/png",
+      "relativePath": "previews/orca_left.png",
+      "sha256": "ce39a6485e3235bcd4134760a679a95edb47c9b719ecec91a6ab5506b0aa40d1"
+    },
+    {
+      "bytes": 202652,
+      "mimeType": "image/png",
+      "relativePath": "previews/orca_top.png",
+      "sha256": "a25ce1ab43fc9cb833b77a55193722da992beb9ab3d6811f9f7bd81e6bb6c7d9"
+    },
+    {
+      "bytes": 8638,
+      "mimeType": "text/plain",
+      "relativePath": "reports/export_stdout.txt",
+      "sha256": "f735ef304a1f33c5383101855e127198d61422f677884fc5d2e248b02786275a"
+    },
+    {
+      "bytes": 225,
+      "mimeType": "application/json",
+      "relativePath": "reports/glb_validation.json",
+      "sha256": "920d8fdc905d9f8eebd58c42805ca31a637f0be22d5766f9dd3e5b8b05c6ddfc"
+    },
+    {
+      "bytes": 630,
+      "mimeType": "application/json",
+      "relativePath": "reports/guidance_report.json",
+      "sha256": "5097de82e47162ed244cbe5ca5cf4caf82030bd7de1f75c9c9176df4443d5a52"
+    },
+    {
+      "bytes": 102,
+      "mimeType": "text/plain",
+      "relativePath": "reports/lod0_blender_stdout.txt",
+      "sha256": "ca26a086cf48a38c887020fab776de62c9af3b4b36a07f96e76248c481991ae2"
+    },
+    {
+      "bytes": 872,
+      "mimeType": "application/json",
+      "relativePath": "reports/lod0_build_report.json",
+      "sha256": "752cc6e3fab4e82944057feee36728d9f5a708499bd366e46764fc42e024625c"
+    },
+    {
+      "bytes": 1695839,
+      "mimeType": "text/plain",
+      "relativePath": "reports/lod_generation_stdout.txt",
+      "sha256": "4fd9695cc27fd9e2ceb14599e93eb09aba627452c7d57b95ebdacd55262dd65f"
+    },
+    {
+      "bytes": 204,
+      "mimeType": "text/plain",
+      "relativePath": "reports/mechanics_stdout.txt",
+      "sha256": "dbeb218d433ed71bc1d7c22dddbe613b22be05848a412ff78a646a291c5e9b6e"
+    },
+    {
+      "bytes": 3023,
+      "mimeType": "application/json",
+      "relativePath": "reports/mechanics_validation.json",
+      "sha256": "f3935c3b5c008ae0d999097848006e7b007fc4d867f5bca908555744143a8feb"
+    },
+    {
+      "bytes": 431,
+      "mimeType": "application/json",
+      "relativePath": "reports/multiview_report.json",
+      "sha256": "95cda0a41be6545312ac0943a19523db3f4407dd3b74277454724163b2ca690a"
+    },
+    {
+      "bytes": 828,
+      "mimeType": "text/plain",
+      "relativePath": "reports/preview_stdout.txt",
+      "sha256": "f8f8337d042767ce55d5d9d813619df2be12545d2f0c32d5cf84b0333583ec1f"
+    },
+    {
+      "bytes": 13461,
+      "mimeType": "application/json",
+      "relativePath": "reports/topology_rig_graph.json",
+      "sha256": "a5b082b6b25a6b04ed304fc42ffbc2612d3e1a01fcb23cd3786c386149073d1d"
+    },
+    {
+      "bytes": 13873,
+      "mimeType": "text/x-python",
+      "relativePath": "scripts/build_orca_lod0.py",
+      "sha256": "fe69a13f254d04c7509fe844bee6761f8459caf8106ced5dff98edaacbd387ef"
+    },
+    {
+      "bytes": 4873,
+      "mimeType": "text/x-python",
+      "relativePath": "scripts/create_lods_and_audit.py",
+      "sha256": "78249c65809a8d5d38b607157dfc6dc808ccad6cb2052d85c815e3f410acd3fb"
+    },
+    {
+      "bytes": 976,
+      "mimeType": "text/x-python",
+      "relativePath": "scripts/export_godot_glb.py",
+      "sha256": "6a3368fa36dcc20ddadea0695ad786100a710e2fd90178eeee5ebb732fd11c5f"
+    },
+    {
+      "bytes": 2158,
+      "mimeType": "text/x-python",
+      "relativePath": "scripts/render_multiview.py",
+      "sha256": "d908ef4f90feebb976575f92ae44eaf46b71fe7013cc23368964ffcb41775d3b"
+    },
+    {
+      "bytes": 3895,
+      "mimeType": "text/x-python",
+      "relativePath": "scripts/validate_mechanics.py",
+      "sha256": "c99589ae816afce5e0e007d758fe0500184f2a26528b5759d23af590b37b3369"
+    },
+    {
+      "bytes": 46882,
+      "mimeType": "image/png",
+      "relativePath": "textures/orca_basecolor.png",
+      "sha256": "fe4d806c490262c6db22e7cbf1442d977b02dcde6edb8554879e766dfd810bb9"
+    },
+    {
+      "bytes": 1679,
+      "mimeType": "image/png",
+      "relativePath": "textures/orca_roughness.png",
+      "sha256": "b5c13f294357141997dd3f7bc1fc6f7409b9b8da5c16dfd5dda4c0d39afd5579"
+    }
+  ],
+  "cellId": "orca_07_export_manifest",
+  "durationMs": 4977,
+  "exitCode": 0,
+  "ok": true,
+  "policyFindings": [],
+  "runId": "uN2EhMVo-QYe_Znf-mbGaR0Y",
+  "sandboxMode": "process-fallback",
+  "stderr": "",
+  "stdout": "/home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/exports/asset_manifest.json\n"
+}

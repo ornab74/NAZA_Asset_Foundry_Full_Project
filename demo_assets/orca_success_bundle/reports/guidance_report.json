@@ -1,0 +1,35 @@
+{
+  "circumference_segments": 64,
+  "continuous_state_shape": [
+    107,
+    64,
+    3
+  ],
+  "localized_refinement_regions_x": [
+    [
+      -4.75,
+      -3.75
+    ],
+    [
+      0.1,
+      1.75
+    ],
+    [
+      2.15,
+      4.48
+    ]
+  ],
+  "reference_summary": {
+    "note": "No reference image was required; authored anatomy and markings remain deterministic.",
+    "used": false
+  },
+  "ring_count": 107,
+  "sdf_shape": [
+    60,
+    34,
+    34
+  ],
+  "seed": 2962959950,
+  "splat_count": 432,
+  "trained_model_disclosure": "Analytic SDF, splats, topology coordinates, and wavelet-like detail; no trained model weights."
+}

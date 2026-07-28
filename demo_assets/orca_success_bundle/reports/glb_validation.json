@@ -1,0 +1,14 @@
+{
+  "byte_length": 1147764,
+  "content_summary": {
+    "accessors": 287,
+    "animations": 3,
+    "materials": 4,
+    "meshes": 37,
+    "nodes": 54,
+    "skins": 1,
+    "textures": 2
+  },
+  "glb_version": 2,
+  "pass": true
+}

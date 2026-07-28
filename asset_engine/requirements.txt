@@ -1,0 +1,8 @@
+# Install into a dedicated virtual environment. Do not upgrade a working global
+# NumPy/SciPy stack in place.
+numpy>=1.26,<3
+opencv-python-headless>=4.10,<5
+scipy>=1.13,<2
+trimesh>=4.4,<5
+networkx>=3.3,<4
+pygltflib>=1.16,<2

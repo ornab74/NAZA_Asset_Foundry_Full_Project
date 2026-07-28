@@ -1,0 +1,15 @@
+{
+  "architectures": [
+    "polyflow_vertex_topology_refiner",
+    "multi_resolution_neus_splat",
+    "hypergraph_dual_rig_diffusion",
+    "neural_mechanics_informed_flow",
+    "neuro_symbolic_topology_induction"
+  ],
+  "assetName": "Production Orca \u2014 Rigged PBR Godot GLB",
+  "category": "rigged_real_time_creature",
+  "createdAt": "2026-07-27T15:53:59.543480Z",
+  "planId": "naza_orca_game_asset_v1",
+  "prompt": "A production-ready, rigged orca whale game asset with realistic black-and-white markings, clean deformation topology, expressive fins and tail, believable anatomy, four optimized LODs, PBR materials, and Godot-ready GLB export. Include clean looping deformation around the jaw, pectoral fins, dorsal fin, and tail. Make it editable, animation-ready, and suitable for real-time use.",
+  "seed": 2962959950
+}

@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "NAZA Asset Foundry (Linux)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "args": [
+        "-d",
+        "linux",
+        "--dart-define=ASSET_FOUNDRY_PYTHON=${workspaceFolder}/.asset-foundry-venv/bin/python",
+        "--dart-define=ASSET_FOUNDRY_ENGINE_SCRIPT=${workspaceFolder}/asset_engine/server.py"
+      ]
+    }
+  ]
+}

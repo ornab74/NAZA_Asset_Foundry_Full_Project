@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Asset Foundry: bootstrap",
+      "type": "shell",
+      "command": "./scripts/bootstrap_full_project.sh",
+      "problemMatcher": []
+    },
+    {
+      "label": "Asset Foundry: Python policy tests",
+      "type": "shell",
+      "command": "python3 -m unittest asset_engine.test_policy -v",
+      "problemMatcher": []
+    }
+  ]
+}

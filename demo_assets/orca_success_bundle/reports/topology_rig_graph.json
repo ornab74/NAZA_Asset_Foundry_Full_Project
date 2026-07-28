@@ -1,0 +1,586 @@
+{
+  "collision_proxy": "Orca-col",
+  "dual_graph_interpretation": "Mesh edges form the geometry graph; bones form the rig graph; vertex groups are cross-graph hyperedges.",
+  "lod_ratios": {
+    "1": 0.5,
+    "2": 0.24,
+    "3": 0.1
+  },
+  "mesh_graph": {
+    "LOD0": {
+      "Orca_LOD0_Body": {
+        "bone_vertex_incidence": {
+          "spine_00": 1473,
+          "spine_01": 1921,
+          "spine_02": 960,
+          "spine_03": 1280,
+          "spine_04": 1984,
+          "spine_05": 3649,
+          "spine_06": 2433
+        },
+        "boundary_edges": 0,
+        "edges": 13760,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 6912,
+        "quads": 6784,
+        "triangles": 128,
+        "vertices": 6850
+      },
+      "Orca_LOD0_DorsalFin": {
+        "bone_vertex_incidence": {
+          "dorsal_fin": 12
+        },
+        "boundary_edges": 0,
+        "edges": 18,
+        "ngons": 2,
+        "nonmanifold_edges": 0,
+        "polygons": 8,
+        "quads": 6,
+        "triangles": 0,
+        "vertices": 12
+      },
+      "Orca_LOD0_Eye_L": {
+        "bone_vertex_incidence": {
+          "spine_06": 114
+        },
+        "boundary_edges": 0,
+        "edges": 240,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 128,
+        "quads": 96,
+        "triangles": 32,
+        "vertices": 114
+      },
+      "Orca_LOD0_Eye_R": {
+        "bone_vertex_incidence": {
+          "spine_06": 114
+        },
+        "boundary_edges": 0,
+        "edges": 240,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 128,
+        "quads": 96,
+        "triangles": 32,
+        "vertices": 114
+      },
+      "Orca_LOD0_Fluke_L": {
+        "bone_vertex_incidence": {
+          "fluke_L": 10
+        },
+        "boundary_edges": 0,
+        "edges": 15,
+        "ngons": 2,
+        "nonmanifold_edges": 0,
+        "polygons": 7,
+        "quads": 5,
+        "triangles": 0,
+        "vertices": 10
+      },
+      "Orca_LOD0_Fluke_R": {
+        "bone_vertex_incidence": {
+          "fluke_R": 10
+        },
+        "boundary_edges": 0,
+        "edges": 15,
+        "ngons": 2,
+        "nonmanifold_edges": 0,
+        "polygons": 7,
+        "quads": 5,
+        "triangles": 0,
+        "vertices": 10
+      },
+      "Orca_LOD0_Jaw": {
+        "bone_vertex_incidence": {
+          "jaw": 222
+        },
+        "boundary_edges": 0,
+        "edges": 460,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 240,
+        "quads": 200,
+        "triangles": 40,
+        "vertices": 222
+      },
+      "Orca_LOD0_Pectoral_L": {
+        "bone_vertex_incidence": {
+          "pectoral_L": 10,
+          "pectoral_L_tip": 10
+        },
+        "boundary_edges": 0,
+        "edges": 18,
+        "ngons": 2,
+        "nonmanifold_edges": 0,
+        "polygons": 8,
+        "quads": 6,
+        "triangles": 0,
+        "vertices": 12
+      },
+      "Orca_LOD0_Pectoral_R": {
+        "bone_vertex_incidence": {
+          "pectoral_R": 10,
+          "pectoral_R_tip": 10
+        },
+        "boundary_edges": 0,
+        "edges": 18,
+        "ngons": 2,
+        "nonmanifold_edges": 0,
+        "polygons": 8,
+        "quads": 6,
+        "triangles": 0,
+        "vertices": 12
+      }
+    },
+    "LOD1": {
+      "Orca_LOD1_Body": {
+        "bone_vertex_incidence": {
+          "spine_00": 576,
+          "spine_01": 948,
+          "spine_02": 774,
+          "spine_03": 914,
+          "spine_04": 1088,
+          "spine_05": 1564,
+          "spine_06": 988
+        },
+        "boundary_edges": 0,
+        "edges": 10272,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 6848,
+        "quads": 0,
+        "triangles": 6848,
+        "vertices": 3426
+      },
+      "Orca_LOD1_DorsalFin": {
+        "bone_vertex_incidence": {
+          "dorsal_fin": 7
+        },
+        "boundary_edges": 0,
+        "edges": 15,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 10,
+        "quads": 0,
+        "triangles": 10,
+        "vertices": 7
+      },
+      "Orca_LOD1_Eye_L": {
+        "bone_vertex_incidence": {
+          "spine_06": 58
+        },
+        "boundary_edges": 0,
+        "edges": 168,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 112,
+        "quads": 0,
+        "triangles": 112,
+        "vertices": 58
+      },
+      "Orca_LOD1_Eye_R": {
+        "bone_vertex_incidence": {
+          "spine_06": 58
+        },
+        "boundary_edges": 0,
+        "edges": 168,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 112,
+        "quads": 0,
+        "triangles": 112,
+        "vertices": 58
+      },
+      "Orca_LOD1_Fluke_L": {
+        "bone_vertex_incidence": {
+          "fluke_L": 6
+        },
+        "boundary_edges": 0,
+        "edges": 12,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 8,
+        "quads": 0,
+        "triangles": 8,
+        "vertices": 6
+      },
+      "Orca_LOD1_Fluke_R": {
+        "bone_vertex_incidence": {
+          "fluke_R": 6
+        },
+        "boundary_edges": 0,
+        "edges": 12,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 8,
+        "quads": 0,
+        "triangles": 8,
+        "vertices": 6
+      },
+      "Orca_LOD1_Jaw": {
+        "bone_vertex_incidence": {
+          "jaw": 112
+        },
+        "boundary_edges": 0,
+        "edges": 330,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 220,
+        "quads": 0,
+        "triangles": 220,
+        "vertices": 112
+      },
+      "Orca_LOD1_Pectoral_L": {
+        "bone_vertex_incidence": {
+          "pectoral_L": 6,
+          "pectoral_L_tip": 7
+        },
+        "boundary_edges": 0,
+        "edges": 15,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 10,
+        "quads": 0,
+        "triangles": 10,
+        "vertices": 7
+      },
+      "Orca_LOD1_Pectoral_R": {
+        "bone_vertex_incidence": {
+          "pectoral_R": 6,
+          "pectoral_R_tip": 7
+        },
+        "boundary_edges": 0,
+        "edges": 15,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 10,
+        "quads": 0,
+        "triangles": 10,
+        "vertices": 7
+      }
+    },
+    "LOD2": {
+      "Orca_LOD2_Body": {
+        "bone_vertex_incidence": {
+          "spine_00": 214,
+          "spine_01": 416,
+          "spine_02": 396,
+          "spine_03": 462,
+          "spine_04": 608,
+          "spine_05": 829,
+          "spine_06": 509
+        },
+        "boundary_edges": 0,
+        "edges": 4929,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 3286,
+        "quads": 0,
+        "triangles": 3286,
+        "vertices": 1645
+      },
+      "Orca_LOD2_DorsalFin": {
+        "bone_vertex_incidence": {
+          "dorsal_fin": 4
+        },
+        "boundary_edges": 0,
+        "edges": 6,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 4,
+        "quads": 0,
+        "triangles": 4,
+        "vertices": 4
+      },
+      "Orca_LOD2_Eye_L": {
+        "bone_vertex_incidence": {
+          "spine_06": 28
+        },
+        "boundary_edges": 0,
+        "edges": 78,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 52,
+        "quads": 0,
+        "triangles": 52,
+        "vertices": 28
+      },
+      "Orca_LOD2_Eye_R": {
+        "bone_vertex_incidence": {
+          "spine_06": 28
+        },
+        "boundary_edges": 0,
+        "edges": 78,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 52,
+        "quads": 0,
+        "triangles": 52,
+        "vertices": 28
+      },
+      "Orca_LOD2_Fluke_L": {
+        "bone_vertex_incidence": {
+          "fluke_L": 3
+        },
+        "boundary_edges": 0,
+        "edges": 3,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 2,
+        "quads": 0,
+        "triangles": 2,
+        "vertices": 3
+      },
+      "Orca_LOD2_Fluke_R": {
+        "bone_vertex_incidence": {
+          "fluke_R": 3
+        },
+        "boundary_edges": 0,
+        "edges": 3,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 2,
+        "quads": 0,
+        "triangles": 2,
+        "vertices": 3
+      },
+      "Orca_LOD2_Jaw": {
+        "bone_vertex_incidence": {
+          "jaw": 54
+        },
+        "boundary_edges": 0,
+        "edges": 156,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 104,
+        "quads": 0,
+        "triangles": 104,
+        "vertices": 54
+      },
+      "Orca_LOD2_Pectoral_L": {
+        "bone_vertex_incidence": {
+          "pectoral_L": 4,
+          "pectoral_L_tip": 4
+        },
+        "boundary_edges": 0,
+        "edges": 6,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 4,
+        "quads": 0,
+        "triangles": 4,
+        "vertices": 4
+      },
+      "Orca_LOD2_Pectoral_R": {
+        "bone_vertex_incidence": {
+          "pectoral_R": 4,
+          "pectoral_R_tip": 4
+        },
+        "boundary_edges": 0,
+        "edges": 6,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 4,
+        "quads": 0,
+        "triangles": 4,
+        "vertices": 4
+      }
+    },
+    "LOD3": {
+      "Orca_LOD3_Body": {
+        "bone_vertex_incidence": {
+          "spine_00": 107,
+          "spine_01": 193,
+          "spine_02": 189,
+          "spine_03": 184,
+          "spine_04": 234,
+          "spine_05": 345,
+          "spine_06": 213
+        },
+        "boundary_edges": 0,
+        "edges": 2052,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 1368,
+        "quads": 0,
+        "triangles": 1368,
+        "vertices": 686
+      },
+      "Orca_LOD3_DorsalFin": {
+        "bone_vertex_incidence": {
+          "dorsal_fin": 3
+        },
+        "boundary_edges": 0,
+        "edges": 3,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 2,
+        "quads": 0,
+        "triangles": 2,
+        "vertices": 3
+      },
+      "Orca_LOD3_Eye_L": {
+        "bone_vertex_incidence": {
+          "spine_06": 13
+        },
+        "boundary_edges": 0,
+        "edges": 33,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 22,
+        "quads": 0,
+        "triangles": 22,
+        "vertices": 13
+      },
+      "Orca_LOD3_Eye_R": {
+        "bone_vertex_incidence": {
+          "spine_06": 13
+        },
+        "boundary_edges": 0,
+        "edges": 33,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 22,
+        "quads": 0,
+        "triangles": 22,
+        "vertices": 13
+      },
+      "Orca_LOD3_Fluke_L": {
+        "bone_vertex_incidence": {
+          "fluke_L": 3
+        },
+        "boundary_edges": 0,
+        "edges": 3,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 2,
+        "quads": 0,
+        "triangles": 2,
+        "vertices": 3
+      },
+      "Orca_LOD3_Fluke_R": {
+        "bone_vertex_incidence": {
+          "fluke_R": 3
+        },
+        "boundary_edges": 0,
+        "edges": 3,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 2,
+        "quads": 0,
+        "triangles": 2,
+        "vertices": 3
+      },
+      "Orca_LOD3_Jaw": {
+        "bone_vertex_incidence": {
+          "jaw": 24
+        },
+        "boundary_edges": 0,
+        "edges": 66,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 44,
+        "quads": 0,
+        "triangles": 44,
+        "vertices": 24
+      },
+      "Orca_LOD3_Pectoral_L": {
+        "bone_vertex_incidence": {
+          "pectoral_L": 3,
+          "pectoral_L_tip": 3
+        },
+        "boundary_edges": 0,
+        "edges": 3,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 2,
+        "quads": 0,
+        "triangles": 2,
+        "vertices": 3
+      },
+      "Orca_LOD3_Pectoral_R": {
+        "bone_vertex_incidence": {
+          "pectoral_R": 3,
+          "pectoral_R_tip": 3
+        },
+        "boundary_edges": 0,
+        "edges": 3,
+        "ngons": 0,
+        "nonmanifold_edges": 0,
+        "polygons": 2,
+        "quads": 0,
+        "triangles": 2,
+        "vertices": 3
+      }
+    }
+  },
+  "optimization_disclosure": "Blender deterministic quadric decimation is used for LOD1-3; no trained topology model.",
+  "rig_graph": {
+    "dorsal_fin": {
+      "deform": true,
+      "parent": "spine_04"
+    },
+    "fluke_L": {
+      "deform": true,
+      "parent": "spine_00"
+    },
+    "fluke_R": {
+      "deform": true,
+      "parent": "spine_00"
+    },
+    "jaw": {
+      "deform": true,
+      "parent": "spine_06"
+    },
+    "pectoral_L": {
+      "deform": true,
+      "parent": "spine_04"
+    },
+    "pectoral_L_tip": {
+      "deform": true,
+      "parent": "pectoral_L"
+    },
+    "pectoral_R": {
+      "deform": true,
+      "parent": "spine_04"
+    },
+    "pectoral_R_tip": {
+      "deform": true,
+      "parent": "pectoral_R"
+    },
+    "root": {
+      "deform": false,
+      "parent": null
+    },
+    "spine_00": {
+      "deform": true,
+      "parent": "root"
+    },
+    "spine_01": {
+      "deform": true,
+      "parent": "spine_00"
+    },
+    "spine_02": {
+      "deform": true,
+      "parent": "spine_01"
+    },
+    "spine_03": {
+      "deform": true,
+      "parent": "spine_02"
+    },
+    "spine_04": {
+      "deform": true,
+      "parent": "spine_03"
+    },
+    "spine_05": {
+      "deform": true,
+      "parent": "spine_04"
+    },
+    "spine_06": {
+      "deform": true,
+      "parent": "spine_05"
+    }
+  }
+}

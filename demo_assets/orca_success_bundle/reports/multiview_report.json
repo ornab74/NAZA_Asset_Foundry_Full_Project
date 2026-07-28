@@ -1,0 +1,16 @@
+{
+  "method_disclosure": "Deterministic synchronized multiview rendering; no asynchronous learned reconstruction model.",
+  "silhouette_coverage": {
+    "front": 0.3272569444444444,
+    "hero": 0.369609375,
+    "left": 0.42114149305555554,
+    "top": 0.4019010416666667
+  },
+  "state_coherence": "All views render frame 1 from one shared BLEND and one rig state.",
+  "views": [
+    "hero",
+    "left",
+    "front",
+    "top"
+  ]
+}

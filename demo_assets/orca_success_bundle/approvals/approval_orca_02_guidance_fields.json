@@ -1,0 +1,14 @@
+{
+  "allowedPermissions": [
+    "readInputs",
+    "useNumpy",
+    "useOpenCv",
+    "writeWorkspace"
+  ],
+  "approvedAt": "2026-07-27T16:08:48.996496Z",
+  "cellId": "orca_02_guidance_fields",
+  "codeSha256": "dc02f7e32e5f40b78197ddb30bd1a428cd76f471157334e947c1651d75ea092e",
+  "planId": "naza_orca_game_asset_v1",
+  "reviewerNote": "",
+  "runId": "uN2EhMVo-QYe_Znf-mbGaR0Y"
+}

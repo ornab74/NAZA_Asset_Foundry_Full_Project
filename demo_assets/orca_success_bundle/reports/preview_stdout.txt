@@ -1,0 +1,17 @@
+Blender 3.4.1
+Read blend: /home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/exports/orca_production.blend
+Saved: '/home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/previews/orca_hero.png'
+ Time: 00:02.42 (Saving: 00:00.24)
+
+Saved: '/home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/previews/orca_left.png'
+ Time: 00:00.22 (Saving: 00:00.03)
+
+Saved: '/home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/previews/orca_front.png'
+ Time: 00:00.20 (Saving: 00:00.03)
+
+Saved: '/home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/previews/orca_top.png'
+ Time: 00:00.18 (Saving: 00:00.03)
+
+
+Blender quit
+

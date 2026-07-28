@@ -1,0 +1,14 @@
+{
+  "allowedPermissions": [
+    "invokeBlender",
+    "spawnSubprocess",
+    "useNumpy",
+    "writeWorkspace"
+  ],
+  "approvedAt": "2026-07-27T16:09:33.506524Z",
+  "cellId": "orca_05_mechanics_validation",
+  "codeSha256": "9111134572530e0dc584981d75c7f6548cd29ca7181457c01c62af93de409836",
+  "planId": "naza_orca_game_asset_v1",
+  "reviewerNote": "",
+  "runId": "uN2EhMVo-QYe_Znf-mbGaR0Y"
+}

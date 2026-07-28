@@ -1,0 +1,6 @@
+Info: Saved "orca_production.blend"
+Blender 3.4.1
+Read blend: /home/user/.local/share/naza_asset_foundry/runs/naza_orca_game_asset_v1/uN2EhMVo-QYe_Znf-mbGaR0Y/exports/orca_production.blend
+
+Blender quit
+

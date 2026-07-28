@@ -1,0 +1,13 @@
+{
+  "allowedPermissions": [
+    "invokeBlender",
+    "spawnSubprocess",
+    "writeWorkspace"
+  ],
+  "approvedAt": "2026-07-27T16:09:21.034792Z",
+  "cellId": "orca_04_lods_topology_graph",
+  "codeSha256": "6047da856c01637b9e094544f87b578961bbaa09e68e64074ff9660f86b306e1",
+  "planId": "naza_orca_game_asset_v1",
+  "reviewerNote": "",
+  "runId": "uN2EhMVo-QYe_Znf-mbGaR0Y"
+}

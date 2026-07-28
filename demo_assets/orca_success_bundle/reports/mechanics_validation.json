@@ -1,0 +1,113 @@
+{
+  "aggregate": {
+    "acceleration_proxy": 0.019542803581199024,
+    "bend_potential_proxy": 0.053197108869605596,
+    "kinetic_energy_proxy": 0.025778901313430747,
+    "loop_state_error": 5.009089753702596e-17,
+    "strain_max": 1.1095721142848698,
+    "strain_p95": 1.0309989791930043,
+    "strain_p99": 1.0639344560173716
+  },
+  "method_disclosure": "Edge strain and Hamiltonian-inspired kinetic/bend trajectory terms are deterministic diagnostics, not a learned mechanics model.",
+  "pass": true,
+  "pose_samples": [
+    {
+      "action": "SwimLoop",
+      "frame": 1,
+      "strain_max": 1.1095721142848698,
+      "strain_p50": 0.9999952761787699,
+      "strain_p95": 1.0313669274364126
+    },
+    {
+      "action": "SwimLoop",
+      "frame": 7,
+      "strain_max": 1.0848290747766562,
+      "strain_p50": 0.9999870485237219,
+      "strain_p95": 1.0184755391566354
+    },
+    {
+      "action": "SwimLoop",
+      "frame": 13,
+      "strain_max": 1.0736850838592236,
+      "strain_p50": 0.9999594217364998,
+      "strain_p95": 1.0367009070053248
+    },
+    {
+      "action": "SwimLoop",
+      "frame": 19,
+      "strain_max": 1.08659309374063,
+      "strain_p50": 0.9999764123372983,
+      "strain_p95": 1.0329908055842743
+    },
+    {
+      "action": "SwimLoop",
+      "frame": 25,
+      "strain_max": 1.1095721142848698,
+      "strain_p50": 0.9999952648748127,
+      "strain_p95": 1.031366955964232
+    },
+    {
+      "action": "SwimLoop",
+      "frame": 31,
+      "strain_max": 1.089770597905359,
+      "strain_p50": 0.9999790412122583,
+      "strain_p95": 1.0250293498696925
+    },
+    {
+      "action": "SwimLoop",
+      "frame": 37,
+      "strain_max": 1.0736850838592233,
+      "strain_p50": 0.9999593737861059,
+      "strain_p95": 1.0367008684609351
+    },
+    {
+      "action": "SwimLoop",
+      "frame": 43,
+      "strain_max": 1.086593225182201,
+      "strain_p50": 0.9999884184574508,
+      "strain_p95": 1.0287651052668594
+    },
+    {
+      "action": "SwimLoop",
+      "frame": 49,
+      "strain_max": 1.1095721142848698,
+      "strain_p50": 0.9999952761787699,
+      "strain_p95": 1.0313669274364126
+    },
+    {
+      "action": "BiteLoop",
+      "frame": 1,
+      "strain_max": 1.1095721142848698,
+      "strain_p50": 0.9999952761787699,
+      "strain_p95": 1.0313669274364126
+    },
+    {
+      "action": "BiteLoop",
+      "frame": 8,
+      "strain_max": 1.1095721142848698,
+      "strain_p50": 0.999995267409291,
+      "strain_p95": 1.0313669274364126
+    },
+    {
+      "action": "BiteLoop",
+      "frame": 16,
+      "strain_max": 1.1095721142848698,
+      "strain_p50": 0.999995267409291,
+      "strain_p95": 1.0313669274364126
+    },
+    {
+      "action": "BiteLoop",
+      "frame": 24,
+      "strain_max": 1.1095721142848698,
+      "strain_p50": 0.9999952761787699,
+      "strain_p95": 1.0313669274364126
+    },
+    {
+      "action": "BiteLoop",
+      "frame": 32,
+      "strain_max": 1.1095721142848698,
+      "strain_p50": 0.9999952761787699,
+      "strain_p95": 1.0313669274364126
+    }
+  ]
+}

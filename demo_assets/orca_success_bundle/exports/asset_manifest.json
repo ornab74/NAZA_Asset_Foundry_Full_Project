@@ -1,0 +1,94 @@
+{
+  "actions": [
+    "SwimLoop",
+    "BiteLoop"
+  ],
+  "architecture_implementations": {
+    "hypergraph_dual_rig_diffusion": "Mesh/bone/incidence graph and smooth analytic weights.",
+    "multi_resolution_neus_splat": "Analytic SDF and oriented splat guidance.",
+    "neural_mechanics_informed_flow": "Pose strain and trajectory energy diagnostics.",
+    "neuro_symbolic_topology_induction": "Deterministic anatomical construction grammar.",
+    "polyflow_vertex_topology_refiner": "Continuous analytic vertex state plus localized ring density."
+  },
+  "asset_id": "orca_game_asset",
+  "editable_source": "exports/orca_production.blend",
+  "files": {
+    "build/asset_spec.json": {
+      "bytes": 1339,
+      "sha256": "d170205ea5b308129c8733f9b316c9ee6a12a1e4319877eea201f7c37469cf8f"
+    },
+    "build/orca_guidance.npz": {
+      "bytes": 174918,
+      "sha256": "fb0cd423a3df2ed90fc181a6307e8c7b7cdec1847e6b2cb37755f0950dcfdc6a"
+    },
+    "exports/README_GODOT.md": {
+      "bytes": 591,
+      "sha256": "f3a05c3f7fb7492e0501906c86ee9abb30b1233d40c200307a462f12b740fe0a"
+    },
+    "exports/orca_godot.glb": {
+      "bytes": 1147764,
+      "sha256": "052936f9a5d7d809e04640330f61d15620bbb2335862aa406f43ac57ee61387d"
+    },
+    "exports/orca_production.blend": {
+      "bytes": 3813068,
+      "sha256": "b42169b8d0603a4db00f4a7616ba34a0e47f86d96436a5746cf4fddbf0d2520e"
+    },
+    "previews/orca_contact_sheet.png": {
+      "bytes": 643188,
+      "sha256": "b6fb9fdde590b881c9b568304c42a38dab64fb2e5e47b90375768bbdcf2136aa"
+    },
+    "reports/glb_validation.json": {
+      "bytes": 225,
+      "sha256": "920d8fdc905d9f8eebd58c42805ca31a637f0be22d5766f9dd3e5b8b05c6ddfc"
+    },
+    "reports/guidance_report.json": {
+      "bytes": 630,
+      "sha256": "5097de82e47162ed244cbe5ca5cf4caf82030bd7de1f75c9c9176df4443d5a52"
+    },
+    "reports/lod0_build_report.json": {
+      "bytes": 872,
+      "sha256": "752cc6e3fab4e82944057feee36728d9f5a708499bd366e46764fc42e024625c"
+    },
+    "reports/mechanics_validation.json": {
+      "bytes": 3023,
+      "sha256": "f3935c3b5c008ae0d999097848006e7b007fc4d867f5bca908555744143a8feb"
+    },
+    "reports/multiview_report.json": {
+      "bytes": 431,
+      "sha256": "95cda0a41be6545312ac0943a19523db3f4407dd3b74277454724163b2ca690a"
+    },
+    "reports/topology_rig_graph.json": {
+      "bytes": 13461,
+      "sha256": "a5b082b6b25a6b04ed304fc42ffbc2612d3e1a01fcb23cd3786c386149073d1d"
+    },
+    "textures/orca_basecolor.png": {
+      "bytes": 46882,
+      "sha256": "fe4d806c490262c6db22e7cbf1442d977b02dcde6edb8554879e766dfd810bb9"
+    },
+    "textures/orca_roughness.png": {
+      "bytes": 1679,
+      "sha256": "b5c13f294357141997dd3f7bc1fc6f7409b9b8da5c16dfd5dda4c0d39afd5579"
+    }
+  },
+  "format": "glTF 2.0 binary",
+  "glb_summary": {
+    "accessors": 287,
+    "animations": 3,
+    "materials": 4,
+    "meshes": 37,
+    "nodes": 54,
+    "skins": 1,
+    "textures": 2
+  },
+  "lod_levels": 4,
+  "mechanics_validation": "pass",
+  "pbr_materials": [
+    "M_Orca_Body_PBR",
+    "M_Orca_Black",
+    "M_Orca_White",
+    "M_Orca_Eye"
+  ],
+  "rig_ready": true,
+  "runtime_asset": "exports/orca_godot.glb",
+  "trained_weights": "None. All specialized architecture references are procedural or optimization-based approximations."
+}

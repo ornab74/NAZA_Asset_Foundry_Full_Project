@@ -1,0 +1,44 @@
+{
+  "actions": [
+    "BiteLoop",
+    "SwimLoop"
+  ],
+  "approximation_disclosure": "Procedural anatomy, analytic weight diffusion, and authored actions; no unavailable learned rigging model.",
+  "body_polygons": 6912,
+  "body_vertices": 6850,
+  "bones": [
+    "dorsal_fin",
+    "fluke_L",
+    "fluke_R",
+    "jaw",
+    "pectoral_L",
+    "pectoral_L_tip",
+    "pectoral_R",
+    "pectoral_R_tip",
+    "root",
+    "spine_00",
+    "spine_01",
+    "spine_02",
+    "spine_03",
+    "spine_04",
+    "spine_05",
+    "spine_06"
+  ],
+  "materials": [
+    "M_Orca_Black",
+    "M_Orca_Body_PBR",
+    "M_Orca_Eye",
+    "M_Orca_White"
+  ],
+  "mesh_objects": [
+    "Orca_LOD0_Body",
+    "Orca_LOD0_DorsalFin",
+    "Orca_LOD0_Eye_L",
+    "Orca_LOD0_Eye_R",
+    "Orca_LOD0_Fluke_L",
+    "Orca_LOD0_Fluke_R",
+    "Orca_LOD0_Jaw",
+    "Orca_LOD0_Pectoral_L",
+    "Orca_LOD0_Pectoral_R"
+  ]
+}
